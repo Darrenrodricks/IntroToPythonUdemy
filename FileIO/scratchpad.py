@@ -1,0 +1,1 @@
+print("Almaden".strip('A'))
