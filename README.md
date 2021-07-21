@@ -1,3 +1,6 @@
+
+![FF9A29B1-72FC-461E-BA5A-3E4881AA213C_4_5005_c](https://user-images.githubusercontent.com/86697301/126558875-f41f0838-13e7-4ee5-8491-a0d7944ad611.jpeg)
+
 # Intro To Python (Udemy)
 **These are a few notes and programs that I have written while working on the "Intro to Python Course" on Udemy**
 
